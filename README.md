@@ -1,1 +1,1 @@
-# Mobile_Robot_Localization_and_Mapping_Course
+# Mobile Robot Localization and Mapping Course
