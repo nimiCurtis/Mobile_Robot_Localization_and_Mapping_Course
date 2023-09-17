@@ -10,7 +10,7 @@ The primary objective of this course is to equip students with the knowledge and
 
 ## Contents
 
-1. [**Geodetic Coordinate System and the KITTI Dataset**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%231_Mapping_%26_OccupancyMap)
+1. [**Geodetic Coordinate System, KITTI Dataset & Grid Mapping**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%231_Mapping_%26_OccupancyMap)
 
    - Project: *Probabilistic Occupancy Grid*
 
@@ -25,6 +25,8 @@ The primary objective of this course is to equip students with the knowledge and
    
    These projects focus on the application of Kalman filters and Extended Kalman filters to mitigate sensor noise and improve the accuracy of 2D pose estimation.
 
+   ![](web/EKF_SLAM.gif)
+
 3. [**Particle Filter, Iterative Closest Points (ICP), and Visual Odometry**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%233%20_ParticlFilter_ICP_VisualOdometry)
 
    - Project: *Pose Estimation with Particle Filter*
@@ -32,6 +34,8 @@ The primary objective of this course is to equip students with the knowledge and
    - Project: *Monocular Visual Odometry Pipeline*
    
    In this section, we delve into the implementation of particle filters for pose estimation, the ICP algorithm for scan alignment, and the development of a monocular visual odometry pipeline. The projects provide hands-on experience with these essential techniques and their applications.
+
+   ![](web/Visual_Odometry.gif)
 
 4. [**3D Object Detection Using PointPillars and Multi-Object Tracking Using BoT-SORT**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%234_3DObjectDetection_%26_Tracking)
 
