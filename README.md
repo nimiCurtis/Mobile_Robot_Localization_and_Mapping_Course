@@ -6,7 +6,7 @@ Welcome to the Mapping and Localization for Mobile Robots and Autonomous Systems
 
 ## Course Purpose and Concept
 
-The primary objective of this course is to equip students with the knowledge and skills required to enable mobile robots and autonomous systems to perceive and navigate their surroundings effectively. Throughout the course, students will dive into the following key subjects:
+The primary objective of this course is to equip students with the knowledge and skills required to enable mobile robots and autonomous systems to perceive and navigate their surroundings effectively. Throughout the course, students will dive into the following key subjects as can be seen in the next section.
 
 ## Contents
 
