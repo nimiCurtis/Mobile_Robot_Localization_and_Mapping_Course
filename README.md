@@ -13,15 +13,17 @@ The primary objective of this course is to equip students with the knowledge and
 1. [**Geodetic Coordinate System and the KITTI Dataset**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%231_Mapping_%26_OccupancyMap)
 
    - Project: *Probabilistic Occupancy Grid*
-   
-   In this project, we leverage the KITTI dataset to create and continuously update probabilistic occupancy maps. We explore both a basic approach and a camera-LiDAR sensor fusion method using deep learning techniques. The specific dataset used is *2011_09_26_drive_0005*, which involves navigating through a dynamic urban environment, including a roundabout.
+
+   In this project, we leverage the KITTI dataset to create and continuously update probabilistic occupancy maps. We explore both a basic approach and a camera-LiDAR sensor fusion method using deep learning techniques. 
+
+   ![](web/animation.gif)
 
 2. [**Kalman Filter, Extended Kalman Filter (EKF), and SLAM using EKF**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%232_KalmanFilters_%26_SensorFusion)
 
    - Project: *Kalman Filtering for Pose Estimation*
    - Project: *Extended Kalman Filtering for Improved Pose Estimation*
    
-   These projects focus on the application of Kalman filters and Extended Kalman filters to mitigate sensor noise and improve the accuracy of 2D pose estimation. We employ recorded data from the KITTI dataset, with a specific dataset (*2011_09_30_drive_0020*) capturing a drive through a suburban neighborhood in Karlsruhe, Germany.
+   These projects focus on the application of Kalman filters and Extended Kalman filters to mitigate sensor noise and improve the accuracy of 2D pose estimation.
 
 3. [**Particle Filter, Iterative Closest Points (ICP), and Visual Odometry**](https://github.com/nimiCurtis/Mobile_Robot_Localization_and_Mapping_Course/tree/main/Project_%233%20_ParticlFilter_ICP_VisualOdometry)
 
